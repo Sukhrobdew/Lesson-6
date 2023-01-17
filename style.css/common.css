@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+.btn {
+    margin-bottom: 51px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #B45F4D;
+    border-radius: 0px;
+}

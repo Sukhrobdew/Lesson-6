@@ -1,0 +1,30 @@
+.foo6 {
+  display: inline-block;
+  height: 365px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+
+  background: #f6f4ec;
+}
+.foo6 .b1 {
+    padding: 64px 112px 12px 50px ;
+}
+.foo6 .b2 {
+    padding: 0 129px 12px 50px;
+}
+.foo6 .b3 {
+    padding: 0px 175px 12px 50px;
+}
+.foo6 .b4 {
+    padding: 0 152px 57px 50px;
+}
+.foo6 div {
+    display: inline-block;
+}
+.foo6 .baz6 p {
+    padding: 5px;
+}
+.foo6 .baz7 h5 {
+   padding: 62px 146px 12px 500px;
+}

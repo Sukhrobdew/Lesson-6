@@ -1,0 +1,109 @@
+@import "./common.css";
+@import "./header.css";
+@import "./footer.css";
+
+.foo {
+  margin-top: -4px;
+  height: 304px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+  background: #a9ae8d;
+  border-radius: 0px;
+  text-align: center;
+}
+.foo p {
+  padding-top: 69px;
+}
+.foo h1 {
+  padding: 15px 492px 28px;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 64px;
+  text-align: center;
+  color: #f6f4ec;
+}
+.foo2 h3 {
+  padding: 39px 0px 44px;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 39px;
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #b45f4d;
+}
+.foo2 div {
+  display: inline-block;
+  width: 100%;
+}
+.foo2 .bar {
+  padding: 123px 80px 145px 70px;
+  width: 30%;
+  height: 567px;
+  left: 0px;
+  top: 0px;
+}
+.foo2 .bar1 {
+  padding: 123px 80px 145px 70px;
+  width: 30%;
+  height: 567px;
+  left: 0px;
+  top: 0px;
+}
+.foo2 .bar2 {
+  padding: 123px 80px 145px 70px;
+  width: 30%;
+  height: 567px;
+  left: 0px;
+  top: 0px;
+}
+.foo2 .bar3 .left {
+  margin: 20px 1300px 10px 0px;
+}
+.foo2 .bar3 .rihgt {
+  margin: 2px 800px 10px 0px;
+}
+.foo3 .bar4 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #f6f4ec;
+}
+.foo3 h5 {
+  width: 1220px;
+  font-weight: 400;
+  margin-left: 110px;
+  font-size: 20px;
+  line-height: 32px;
+  color: #f6f4ec;
+  background: #df9b7a;
+  text-align: center;
+  margin-top: -10px;
+}
+
+.foo4 div {
+    display: inline-block;
+   
+}
+.foo4 {
+    background: #F1D3B9;
+}
+.foo4 .baz {
+   margin: 84px 53px 96px 190px;
+}
+.foo4 .baz1 {
+    margin-bottom: 65px;
+    width: 518;
+    height: 582px;
+}
+.foo5 h3 {
+    padding: 55px 0px;
+    text-align: center;
+}
+.foo5 li {
+    display: inline-block;
+    padding: 5px 3px;
+

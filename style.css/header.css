@@ -1,0 +1,28 @@
+.head {
+  padding: 10px 0 9px;
+  text-align: center;
+  color: #f1d3b9;
+}
+
+.head {
+  background: #b36050;
+  border-radius: 0px;
+}
+nav {
+  background: #f6f4ec;
+  text-align: center;
+  
+}
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+nav .img1 {
+  padding: 0px 450px 0px 291px;
+}
+nav ul li {
+    padding: 7px 15px;
+}
+
+
